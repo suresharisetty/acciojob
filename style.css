@@ -1,0 +1,356 @@
+nav{
+    
+    display: flex;
+width: 1600.981px;
+padding: 15px 108px;
+justify-content: space-between;
+align-items: center;
+position: sticky;
+
+}
+.main{
+    display: flex;
+}
+.nav>h2{
+    color: #012555;
+
+font-family: Bai Jamjuree;
+font-size: 21.714px;
+font-style: normal;
+font-weight: 600;
+line-height: 38px; /* 175% */
+letter-spacing: -0.869px;
+
+}
+.content{
+    display: flex;
+}
+.content>ul{
+    padding-left: 800px;
+    display: flex;
+    list-style: none;
+}
+.content>ul{
+    display: flex;
+padding: 10px;
+justify-content: center;
+align-items: center;
+gap: 70px;
+    
+}
+.content>button{
+    display: flex;
+padding: 15px 36px;
+justify-content: center;
+align-items: center;
+gap: 80px;
+border-radius: 30px;
+border: 2px solid var(--primaryskyblue, #2F80ED);
+padding-left: 40px;
+margin-right: 5px;
+ 
+}
+
+.ddl{
+    display: flex;
+    width: 1840px;
+  align-items: center;
+  background-color: #2F80ED;
+    gap: 10px;
+}
+.ddl>p{
+    background-color: #2F80ED;
+    color: #FFF;
+font-family: ABeeZee;
+font-size: 32px;
+font-style: italic;
+font-weight: 400;
+line-height: 150%; /* 21px */
+letter-spacing: 0.28px;
+padding-left: 450px;
+}
+.course>p1{
+    color: var(--BLACK, #2B2F34);
+    font-family: ABeeZee;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 130%; /* 65px */
+    letter-spacing: -0.75px;
+
+}
+.course>p2{
+    color: var(--primaryskyblue, #2F80ED);
+font-family: ABeeZee;
+font-size: 50px;
+font-style: italic;
+font-weight: 400;
+line-height: 130%; /* 65px */
+letter-spacing: -0.75px;
+color: var(--BLACK, #2B2F34);
+font-family: ABeeZee;
+font-size: 50px;
+font-style: italic;
+font-weight: 400;
+line-height: 130%;
+letter-spacing: -0.75px;
+}
+.course>p3{
+    width: 492px;
+color: var(--textlabelcolorscharcoal, #595959);
+font-family: ?????;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 130%; /* 23.4px */
+letter-spacing: 0.36px;
+
+}
+
+.course{
+    padding-top: 100PX;
+}
+.f>p{
+    text-align: center;
+font-family: ABeeZee;
+font-size: 16px;
+font-style: italic;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 1.28px;
+text-transform: uppercase;
+background: var(--New, linear-gradient(277deg, #992FED 0%, #2F80ED 100%));
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.f2>img{
+    padding: 40px;
+}
+.f3>img{
+   padding: 40px;
+}
+.f4>img{
+    padding: 50px;
+ }
+
+button{
+    display: flex;
+padding: 15px 36px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 8px;
+border: 2px solid var(--primaryskyblue, #2F80ED);
+
+}
+
+.f5>button{
+    display: flex;
+width: 276px;
+padding: 14px 6px 14px 16px;
+justify-content: center;
+align-items: center;
+gap: 2px;
+border-radius: 8px;
+background: var(--primaryskyblue,#2F80ED);
+
+}
+.f5{
+    padding-left: 600px;
+}
+.f6>p1{
+    color: var(--BLACK, #2B2F34);
+text-align: center;
+font-family: ABeeZee;
+font-size: 42px;
+font-style: italic;
+font-weight: 400;
+line-height: 150%; /* 63px */
+letter-spacing: -0.63px;
+justify-content: center;
+padding-left: 550px;
+}
+.f6>p2{
+    color: var(--textlabelcolorscharcoal, #595959);
+font-family: ?????;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 130%; /* 23.4px */
+letter-spacing: 0.36px;
+padding-left: 650px;
+}
+.my-card{
+    width: 400px;
+
+}
+.card1{
+    display: flex;
+    align-items: center;
+}
+.card1>img{
+    padding:5px; 
+    border-radius: 5px;
+    border:#992FED;
+}
+
+
+.feedbacks{
+   display: flex;
+   justify-content: space-between;
+   border-radius: 15px;
+
+}
+.feed{
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.lpa{
+    width: 711px;
+height: 77px;
+padding: 15px 20px;
+align-items: center;
+justify-content: space-around;
+border-radius: 8px;
+border: 1px solid #E2E2E2;
+display: flex;
+background: #FFF;
+box-shadow: 0px 2px 40px 0px rgba(0, 0, 0, 0.08);
+}
+figure{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pa{
+    padding-left: 60px;
+    padding-top: 50px;
+    display: flex;
+}
+.course{
+    padding-left: 60px;
+}
+.card{
+    width: 400px;
+    height: 450px;
+    
+}
+.card1{
+    padding-left: 70px;
+    padding-bottom: 0px;
+}
+.card>h2{
+    justify-content: center;
+    align-items: center;
+    padding-left: 45px;
+
+}
+.card>p1{
+    color: var(--BLACK, #2B2F34);
+text-align: center;
+font-family: ABeeZee;
+font-size: 32px;
+font-style: italic;
+font-weight: 400;
+line-height: 150%; /* 48px */
+letter-spacing: -0.48px;
+}
+.card>p{
+    color: #818D9D;
+
+text-align: center;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 24px */
+}
+.card2{
+display: flex;
+width: 400px;
+padding: 14px 6px 14px 10px;
+align-items: center;
+gap: 10px;
+border-radius: 8px;
+background: #FAFAFA;
+}
+.card3{
+    display: flex;
+    width: 400px;
+    padding: 14px 6px 14px 10px;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #FAFAFA;
+    padding-top: 20px;
+    }
+    .pay{
+        display: flex;
+width: 367px;
+padding: 14px 6px 14px 16px;
+justify-content: center;
+align-items: center;
+gap: 2px;
+border-radius: 18px;
+background: var(--New, linear-gradient(277deg, #992FED 0%, #2F80ED 100%));
+
+    }
+    .pay1{
+        padding-left: 15px;
+    }
+    .final>p{
+        width: 291px;
+color: #818D9D;
+
+text-align: center;
+font-family: ?????;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 21px */
+color: var(--primaryskyblue, #2F80ED);
+font-family: ?????;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%;
+    }
+    .final{
+        padding-left: 30px;
+    }
+.cs1{
+    padding-left: 500px;
+    padding-top: 50px;
+    background-color: #2F80ED;
+    border-radius: 50px;
+
+}
+.cs1>P1{
+    text-align: center;
+font-family: ABeeZee;
+font-size: 30px;
+font-style: italic;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 1.6px;
+text-transform: uppercase;
+padding-bottom: 100px;
+}
+.cs1>p2{
+padding-left: 150px;
+}
+.csp{
+    padding-left: 600px;
+}
+.csp>p2{
+    color: #2F80ED;
+
+text-align: center;
+font-family: ABeeZee;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 54px */
+letter-spacing: -0.54px;
+}
